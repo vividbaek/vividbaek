@@ -1,4 +1,9 @@
 ### Hi there 👋
+안녕하세요!
+한국외국어융합인재학부 재학중인 백형준입니다. 
+현재, Upstaeg_AI Lab & fastcampus에서 부트캠프를 진행중입니다.
+
+반가워요 :) 
 
 <!--
 **vividbaek/vividbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
