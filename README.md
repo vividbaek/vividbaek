@@ -1,9 +1,6 @@
 ### Hi there 👋
 안녕하세요!
-한국외국어대학교 융합인재학부 재학중인 백형준입니다. 
-현재, Upstaeg_AI Lab & fastcampus에서 부트캠프를 진행중입니다.
 
-반가워요 :) 
 
 <h1 align="center">Hi 👋, I'm Hyung Jun Baek</h1>
 <h3 align="center">I like data science, backend</h3>
