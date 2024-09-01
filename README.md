@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Hyung Jun Baek</h1>
 <h3 align="center">I like data science, backend</h3>
 
-- 🔭 I’m currently working on **livit**
+- 🔭 I’m currently working on **ferring**
 
 - 🌱 I’m currently learning **type script, nest.js, DataScience**
 
