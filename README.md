@@ -1,35 +1,46 @@
-### Hi there 👋
-안녕하세요!
+<h1 align="center">안녕하세요, 백형준입니다 👋</h1>
 
-
-<h1 align="center">Hi 👋, I'm Hyung Jun Baek</h1>
-<h3 align="center">I like data science, backend</h3>
-
-- 🔭 I’m currently working on **ferring**
-
-- 🌱 I’m currently learning **type script, nest.js, DataScience**
-
-- 📫 How to reach me **vividdream@hufs.ac.kr**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <b>대용량 실시간 데이터를 정제된 인사이트로 변환하는 Data Engineer</b><br/>
+  NestJS 백엔드 전문성을 바탕으로 Kafka·Spark 기반 파이프라인 설계부터 ClickHouse OLAP 서빙까지 End-to-End로 구축합니다.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🔧 Tech Stack
 
-<!--
-**vividbaek/vividbaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Engineering**
+`Apache Kafka` `Apache Spark (Structured Streaming)` `ClickHouse` `Airflow` `Python`
 
-Here are some ideas to get you started:
+**Cloud & Infra**
+`AWS (Lambda · S3 · EventBridge · API Gateway)` `Docker` `Prometheus` `Grafana`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend**
+`NestJS` `TypeScript` `PostgreSQL` `MongoDB` `Redis`
+
+---
+
+## 🚀 Currently Building
+
+**CoinWhale** — 바이낸스 5,000 TPS급 실시간 금융 데이터 인텔리전스 플랫폼
+- Kafka → PySpark Structured Streaming → ClickHouse OLAP 다층형 파이프라인
+- 심볼 기반 키 파티셔닝으로 분산 환경 Strict Ordering 확보
+- Airflow 기반 갭 감지 자동 Backfill (REST / Spark 분기 처리)
+
+---
+
+## 📌 Featured Projects
+
+| 프로젝트 | 설명 | 스택 |
+|---|---|---|
+| [CoinWhale](https://github.com/orgs/three-idiots-labs/repositories) | 실시간 금융 데이터 E2E 파이프라인 | Kafka, Spark, ClickHouse, Airflow |
+| [BOAZ Kafka Practice](https://github.com/vividbaek/BOAZ-25-kafka-practice) | Kafka Producer/Consumer 실습 | Python, Kafka |
+| [TabBoost](https://drive.google.com/file/d/17tNZVVDlaZRCHZMGJxhz0ZGp8PXqs3ki/view?usp=drive_link) | LightGBM+TabNet 앙상블 (ICTC 2025) | Python, LightGBM, PyTorch |
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%ED%98%95%EC%A4%80-%EB%B0%B1-4b5aa6294/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@vividbaek/posts)
+[![Email](https://img.shields.io/badge/Email-wlwns0324@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wlwns0324@gmail.com)
