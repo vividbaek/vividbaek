@@ -20,14 +20,6 @@ Contributing practical documentation, runnable examples, and operational guidanc
 | Apache Airflow | [#66597](https://github.com/apache/airflow/pull/66597)  | Clarified `HttpOperator.response_filter` and XCom usage in documentation and system test examples. Updated the example to match the actual `httpbin /get` response structure. |
 | kafka-python   | [#3015](https://github.com/dpkp/kafka-python/pull/3015) | Added a `KafkaConsumer` manual offset commit example and clarified that consumers should commit the next offset to consume (`message.offset + 1`).                            |
 
-### In Review
-
-| Project        | PR                                                     | Status                      |
-| -------------- | ------------------------------------------------------ | --------------------------- |
-| Apache Airflow | [#67677](https://github.com/apache/airflow/pull/67677) | Ready for Maintainer Review |
-
-**#67677** demonstrates HTTP response branching using `HttpOperator.response_filter` with `@task.branch`, documenting a common workflow pattern for routing downstream tasks based on API responses.
-
 ### Highlights
 
 * 4 upstream PRs merged into Apache Airflow and kafka-python.
